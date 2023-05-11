@@ -507,7 +507,7 @@
   ],
   "File_Conditions": {
     "FarmTypes": [
-      "Standard"
+      "FlashShifter.GrandpasFarm/GrandpasFarm"
     ],
     "FarmerNames": [],
     "SaveFileNames": [],
